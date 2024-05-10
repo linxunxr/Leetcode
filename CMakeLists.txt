@@ -11,4 +11,5 @@ add_executable(Leetcode main.cpp
         leetcode/editor/cn/[56]合并区间.cpp
         "leetcode/editor/cn/[面试题 01.07]旋转矩阵.cpp"
         "leetcode/editor/cn/[面试题 01.08]零矩阵.cpp"
-        leetcode/editor/cn/[498]对角线遍历.cpp)
+        leetcode/editor/cn/[498]对角线遍历.cpp
+        leetcode/editor/cn/[14]最长公共前缀.cpp)
