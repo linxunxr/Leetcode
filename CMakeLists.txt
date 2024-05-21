@@ -25,4 +25,6 @@ add_executable(Leetcode main.cpp
         leetcode/editor/cn/[118]杨辉三角.cpp
         leetcode/editor/cn/[203]移除链表元素.cpp
         "leetcode/editor/cn/[80]删除有序数组中的重复项 II.cpp"
+        leetcode/editor/cn/[75]颜色分类.cpp
+        leetcode/editor/cn/[707]设计链表.cpp
 )
