@@ -27,4 +27,13 @@ add_executable(Leetcode main.cpp
         "leetcode/editor/cn/[80]删除有序数组中的重复项 II.cpp"
         leetcode/editor/cn/[75]颜色分类.cpp
         leetcode/editor/cn/[707]设计链表.cpp
+        leetcode/editor/cn/[206]反转链表.cpp
+        leetcode/editor/cn/[24]两两交换链表中的节点.cpp
+        "leetcode/editor/cn/[19]删除链表的倒数第 N 个结点.cpp"
+        "leetcode/editor/cn/[面试题 02.07]链表相交.cpp"
+        "leetcode/editor/cn/[142]环形链表 II.cpp"
+        leetcode/editor/cn/[242]有效的字母异位词.cpp
+        leetcode/editor/cn/[349]两个数组的交集.cpp
+        leetcode/editor/cn/[202]快乐数.cpp
+        "leetcode/editor/cn/[454]四数相加 II.cpp"
 )

@@ -1,0 +1,15 @@
+class Solution {
+public:
+    int removeElement(vector<int>& nums, int val) {
+        int fastIndex = 0;
+        int slowIndex = 0;
+        for (; fastIndex < nums.size(); fastIndex++) {
+            if (nums[fastIndex] != val) {
+                nums[slowIndex++] = nums[fastIndex];
+            }
+        }
+        return slowIndex;
+    }
+};
+//runtime:3 ms
+//memory:10.2 MB
